@@ -28,6 +28,12 @@ p {
   font-family: 'Indie Flower', cursive;
 }
 
+p a{
+    color: white;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+}
 img {
   width: 80%;
 }
